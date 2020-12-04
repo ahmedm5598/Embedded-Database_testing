@@ -1,0 +1,1 @@
+INSERT INTO employees VALUES (10,'hello','world','email' );
